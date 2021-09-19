@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DevinDAJ
+- 👋 Hi, I’m Devin / Dave
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning To be better at Java Spring / springboot
+- 🌱 I’m currently actively working on Java Spring / Spring boot & Python Projects
+- 🌱 I’m currently learning To be better at TypeScript / NestJS
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me just leave me a message
 
